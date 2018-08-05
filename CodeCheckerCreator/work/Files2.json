@@ -1,0 +1,57 @@
+
+{
+    "files":[
+        {
+            "file_name":"James Li.JPG",
+            "path":".\\work\\fileTest\\James Li.JPG",
+            "ccName":""
+        },
+        {
+            "file_name":"Joel George.JPG",
+            "path":".\\work\\fileTest\\Joel George.JPG",
+            "ccName":""
+        }  
+    ],
+    "codeCheckNames":[
+        {
+            "codeCheckNames":"test"  
+        }
+    ],
+    "files2":[
+        {
+            "file_name2":"James Li.JPG"
+            
+        },
+        {
+            "file_name2":"Joel George.JPG"   
+        }  
+    ],
+    "tempForStep":[
+        {
+            "file_nameT":"James Li.JPG"
+            
+        },
+        {
+            "file_nameT":"Joel George.JPG"   
+        }  
+    ],
+    "files4":[
+        {
+            "file_name4":"James Li.JPG"
+            
+        },
+        {
+            "file_name4":"Joel George.JPG"   
+        }  
+    ],
+    "files5":[
+        {
+            "file_name5":"James Li.JPG"
+            
+        },
+        {
+            "file_name5":"Joel George.JPG"   
+        }  
+    ]
+    
+}

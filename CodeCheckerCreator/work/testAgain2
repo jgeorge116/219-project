@@ -1,0 +1,52 @@
+
+{
+    "files":[
+        {
+            "file_name":"Group1.zip"
+        },
+        {
+            "file_name":"Group2.zip"
+        },
+        {
+            "file_name":"Group3.zip"
+        }
+    ],
+    "files2":[
+        {
+            "file_name2":"HW 1_jichu_attempt_2017-06-12-18-00-15_HW1(new1).zip"
+        },
+        {
+            "file_name2":"HW 1_jingyachen_attempt_2017-06-12-23-06-20_HW1(1).zip"
+        },
+        {
+            "file_name2":"HW 1_kyucho_attempt_2017-06-12-22-26-29_Homework1.zip"
+        },
+        {
+            "file_name2":"HW 1_nlcastello_attempt_2017-06-12-23-52-23_HW1(1).zip"
+        },
+        {
+            "file_name2":"HW 1_tdarji_attempt_2017-06-11-12-53-41_Tirth_Darji_110793364_HW1.zip"
+        },
+        {
+            "file_name2":"HW 1_uansari_attempt_2017-06-12-22-31-15_HW1.zip"
+        },
+        {
+            "file_name2":"HW 1_xinchen2_attempt_2017-06-11-17-04-29_hw1.zip"
+        },
+        {
+            "file_name2":"HW 1_ybirbal_attempt_2017-06-12-20-22-27_HW1(2).zip"
+        },
+        {
+            "file_name2":"HW 1_ychou_attempt_2017-06-12-15-17-02_HW.zip"
+        }
+    ],
+    "files4":[
+    ],
+    "files5":[
+    ],
+    "codeCheckNames":[
+        {
+            "codeCheckNames":"testAgain"
+        }
+    ]
+}

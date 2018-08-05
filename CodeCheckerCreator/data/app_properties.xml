@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file allows us to easily customize the look and language used
+    in our program's user interface. Note that this properties file is only
+    for the standard controls for an app from the Desktop Java Framework, so
+    it would not include things initialized for the workspace, which is
+    customizable.
+-->
+<properties>
+    <property_list>
+        <property name="APP_TITLE"	    value="Code Check"></property>
+	<property name="APP_LOGO"	    value="SlideshowCreatorLogo.png"></property>
+	<property name="APP_PATH_CSS2"	    value="style/"></property>
+	<property name="APP_CSS2"	    value="codecheckercreator_style.css"></property>
+        <property name="APP_PATH_WORK"      value="work/"></property>
+        <property name="RECENTWORKS_TEXT"   value="Recent Works"></property>
+        <property name="WELCOME_TEXT"       value="Welcome to Code Check"></property>
+        <property name="HYPERLINK_TEXT"     value="Create new Code Check"></property>
+        <property name="LOGO_TEXT"          value="Code Check"></property>
+        <property name="X_TEXT"             value="X"></property>
+        <property name="HOMEBUTTION_TEXT"   value="Home"></property>
+        <property name="NEXTBUTTON_TEXT"    value="Next"></property>
+        <property name="PREVBUTTON_TEXT"    value="Previous"></property>
+        <property name="STEPONE_TEXT"       value="Step 1: Extract Submissions"></property> 
+        <property name="ONECOMMAND_TEXT"    value="Select zip files to extract student zip files"></property>      
+        <property name="TABLETITLE_TEXT"    value="Files"></property>
+        <property name="REMOVEBUTTON_TEXT"  value="Remove"></property>
+        <property name="REFRESHBUTTON_TEXT" value="Refresh"></property>
+        <property name="VIEWBUTTON_TEXT"    value="View"></property>
+        <property name="EXTRACTLABEL_TEXT"  value="Extraction Progress"></property>
+        <property name="EXTRACTBUTTON_TEXT" value="Extract"></property>
+        <property name="CHOOSEB_TEXT"       value="Choose"></property>
+        
+        <property name="CONTENTLABEL1_TEXT" value="Blackboard Submissions:"></property>
+        <property name="CONTENTLABEL2_TEXT" value="Student Submissions:"></property>
+        <property name="CONTENTLABEL3_TEXT" value="Student ZIP files:"></property>
+        <property name="CONTENTLABEL4_TEXT" value="Student Work Directories:"></property>
+        <property name="CONTENTLABEL5_TEXT" value="Student Work:"></property>
+        <property name="STEPTWO_TEXT"       value="Step 2: Rename Student Submissions"></property> 
+        <property name="TWOCOMMAND_TEXT"    value="Click Rename (on right) to rename submissions"></property>
+        <property name="STEPTHREE_TEXT"     value="Step 3: Unzip Student Submissions"></property> 
+        <property name="THREECOMMAND_TEXT"  value="Select submissions and click Unzip"></property>  
+        <property name="STEPFOUR_TEXT"      value="Step 4: Extract Source Code"></property> 
+        <property name="FOURCOMMAND_TEXT"   value="Click Extract Code to extract source code from all students"></property> 
+        <property name="STEPFIVE_TEXT"      value="Step 5: Code Check"></property> 
+        <property name="FIVECOMMAND_TEXT"   value="Select students and click Code Check"></property>
+        
+        <property name="RBRIGHT_TEXT"       value="Rename"></property> 
+        <property name="RPL_TEXT"           value="Rename Progress"></property>
+        <property name="UNZIPBUTTON_TEXT"   value="Unzip"></property>
+        <property name="UPLABEL_TEXT"       value="Unzip Progress"></property>
+        <property name="FOURPLABEL_TEXT"    value="Code Progress"></property>
+        <property name="ECBUTTON_TEXT"      value="Extract Code"></property>
+        <property name="CHECKBOXLABEL_TEXT" value="Source Files Types"></property>
+        <property name="CHECKPLABEL_TEXT"   value="Check Progress"></property>
+        <property name="CCBUTTON_TEXT"      value="Code Check"></property>
+        <property name="VRBUTTON_TEXT"      value="View Results"></property>
+        
+
+        <!-- PROGRAM ICON FILES -->
+        <property name="NEW_ICON"	    value="New"></property>
+        <property name="LOAD_ICON"	    value="Load"></property>
+        <property name="RENAME_ICON"	    value="Rename"></property>
+        <property name="ABOUT_ICON"          value="About"></property> 
+        
+        <!-- TOOLTIPS FOR BUTTONS -->
+        <property name="NEW_TOOLTIP"		value="Create a New Code Check"></property>
+        <property name="LOAD_TOOLTIP"		value="Load an existing Code Check"></property>
+        <property name="RENAME_TOOLTIP"		value="Rename Code Check"></property>
+        <property name="ABOUT_TOOLTIP"          value="Learn about Code Check"></property>
+        <property name="EXIT_TOOLTIP"		value="Exit the Application"></property>
+        
+        <!-- ERROR MESSAGES -->
+        <property name="CLOSE_BUTTON_TEXT"              value="Close"></property>
+
+        <property name="NEW_ERROR_MESSAGE"              value="An error occured creating New work."></property>
+        <property name="NEW_ERROR_TITLE"		value="New Work Error"></property>
+        <property name="LOAD_ERROR_MESSAGE"             value="An error occured loading work."></property>
+        <property name="LOAD_ERROR_TITLE"		value="Load Work Error"></property>
+        <property name="SAVE_ERROR_MESSAGE"             value="An error occured saving work."></property>
+        <property name="SAVE_ERROR_TITLE"		value="Save Work Error"></property>
+        <property name="PROPERTIES_LOAD_ERROR_MESSAGE"	value="An error occured loading a properties file."></property>	
+        <property name="PROPERTIES_LOAD_ERROR_TITLE"	value="Properties File Loading Error"></property>
+	
+        <!-- VERIFICATION MESSAGES -->
+	
+        <property name="NEW_COMPLETED_MESSAGE"		value="New Work Ready for Editing"></property>
+        <property name="NEW_COMPLETED_TITLE"		value="New Work Created"></property>
+        <property name="LOAD_COMPLETED_MESSAGE"		value="File Loading Completed and ready for editing"></property>
+        <property name="LOAD_COMPLETED_TITLE"		value="Loading Completed"></property>
+        <property name="SAVE_COMPLETED_MESSAGE"		value="File Saving Completed"></property>
+        <property name="SAVE_COMPLETED_TITLE"		value="Saving Completed"></property>
+        <property name="SAVE_UNSAVED_WORK_MESSAGE"	value="Would you like to save your unsaved work first?"></property>
+        <property name="SAVE_UNSAVED_WORK_TITLE"	value="Save unsaved work?"></property>
+	
+        <property name="NEW_CREATED_MESSAGE"		value="New Work Created but not yet Saved"></property>
+        <property name="WORK_LOADED_MESSAGE"		value="The Work has been Loaded"></property>
+        <property name="WORK_SAVED_MESSAGE"		value="The Work has been Saved"></property>
+        <property name="SAVE_UNSAVED_WORK_MESSAGE"	value="Do you want to save your unsaved work first?"></property>
+        <property name="EXIT_MESSAGE"	                value="Are you sure you want to exit?"></property>
+	<property name="SAVE_WORK_TITLE"		value="Save your work"></property>
+	<property name="LOAD_WORK_TITLE"		value="Select file to load"></property>
+	<property name="WORK_FILE_EXT"			value="json"></property>
+	<property name="WORK_FILE_EXT_DESC"		value="CodeCheck"></property>
+
+        <!-- WORKSPACE CONTROLS STUFF -->        
+	<property name="SLIDES_HEADER_TEXT"		value="Slideshow Slides"></property>
+	<property name="ADD_ALL_IMAGES_BUTTON_TEXT"	value="+/"></property>
+	<property name="ADD_IMAGE_BUTTON_TEXT"		value="+"></property>
+	<property name="REMOVE_IMAGE_BUTTON_TEXT"	value="-"></property>
+        <property name="MOVE_UP_BUTTON_TEXT"            value="move up"></property>
+        <property name="MOVE_DOWN_BUTTON_TEXT"          value="move down"></property>
+        <property name="UNDO_TEXT"                      value="undo"></property>
+        <property name="REDO_TEXT"                      value="redo"></property>
+	<property name="FILE_NAME_COLUMN_TEXT"		value="File Name"></property>
+	<property name="CAPTION_COLUMN_TEXT"		value="Caption"></property>
+	<property name="ORIGINAL_WIDTH_COLUMN_TEXT"	value="Orig. Width"></property>
+	<property name="ORIGINAL_HEIGHT_COLUMN_TEXT"	value="Orig. Height"></property>
+        <property name="XPOS_COLUMN_TEXT"               value="X Position"></property>
+	<property name="YPOS_COLUMN_TEXT"               value="Y Position"></property>
+	<property name="CURRENT_WIDTH_COLUMN_TEXT"	value="Current Width"></property>
+	<property name="CURRENT_HEIGHT_COLUMN_TEXT"	value="Current Height"></property>
+	<property name="FILE_NAME_PROMPT_TEXT"		value="File Name:"></property>
+	<property name="PATH_PROMPT_TEXT"		value="Path:"></property>
+	<property name="CAPTION_PROMPT_TEXT"		value="Caption:"></property>
+	<property name="ORIGINAL_WIDTH_PROMPT_TEXT"	value="Original Image Width:"></property>
+	<property name="ORIGINAL_HEIGHT_PROMPT_TEXT"	value="Original Image Height:"></property>
+	<property name="CURRENT_WIDTH_PROMPT_TEXT"	value="Current Width:"></property>
+	<property name="CURRENT_HEIGHT_PROMPT_TEXT"	value="Current Height:"></property>
+	<property name="UPDATE_BUTTON_TEXT"		value="Update"></property>
+        <property name="X_POS_TEXT"                     value="X Position:"></property>
+	<property name="Y_POS_TEXT"                     value="Y Position:"></property>
+	<property name="PLAY_SLIDESHOW_BUTTON_TEXT"     value="Play Slideshow"></property>
+        <property name="PLAYPAUSE1_TEXT"                value="Play the slideshow automatically"></property>
+        <property name="PLAYPAUSE2_TEXT"                value="with a 2 second interval in between"></property>
+        <property name="NEXTPREV1_TEXT"                 value="View the slideshow at"></property>
+        <property name="NEXTPREV2_TEXT"                 value="your own pace and liking!"></property>
+        <property name="PLAY_TEXT"                      value="play"></property>
+        <property name="PAUSE_TEXT"                     value="pause"></property>
+        <property name="NEXT_TEXT"                      value="next"></property>
+        <property name="PREV_TEXT"                      value="previous"></property>
+        <property name="SSTITLE"                        value=""></property>
+        
+        <!-- WORKSPACE ERROR MESSAGES -->
+        <property name="INVALID_IMAGE_PATH_TITLE"       value="Invalid Image Path"></property>
+        <property name="INVALID_IMAGE_PATH_MESSAGE"     value="Image not found"></property>
+    </property_list>
+    <property_options_list>
+    </property_options_list>
+</properties>

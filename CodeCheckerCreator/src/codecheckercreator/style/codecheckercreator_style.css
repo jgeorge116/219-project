@@ -1,0 +1,79 @@
+/* 
+    Author:	Joel George 
+    Version:	1.0
+*/
+.root{
+    
+}
+
+.dialog_pane {
+    -fx-padding:15;
+}
+
+.dialog_heading {
+    -fx-font-size: 24pt;
+    -fx-color:red;
+}
+
+.dialog_prompt {
+    -fx-font-size: 16pt;
+    -fx-font-weight: bold;
+    -fx-padding: 10;
+}
+
+.bordered_pane {
+    -fx-background-color: #F0F8FF;
+    -fx-background-radius: 5.0;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+    -fx-border-width: 1px;
+    -fx-border-color: #00008B;
+}
+
+.bordered_pane2 {
+    -fx-background-color: #F0F8FF;
+    -fx-background-radius: 5.0;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+}
+
+.prompt_label {
+    -fx-font-size:16pt;
+    -fx-font-weight:bold;
+}
+
+.prompt_label2 {
+    -fx-font-size:12pt;
+    -fx-font-weight:bold;
+}
+
+.edit_text_field {
+    -fx-font-size:20pt;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+}
+.edit_title_field {
+    -fx-font-size:12pt;
+    -fx-padding: 15;
+    -fx-spacing: 13;
+}
+
+.edit_slider {
+    -fx-background-color: #123456;
+}
+
+.edit_button {
+    -fx-font-size: 14pt;
+    -fx-font-weight: bold;
+    -fx-border-radius: 15 15 15 15;
+    -fx-background-radius: 20 20 20 20;
+}
+
+.update_button {
+    -fx-font-size: 48pt;
+    -fx-font-weight: bold;
+}
+
+.slides_table {
+    -fx-font-size:16pt;
+}
